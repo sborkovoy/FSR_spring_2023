@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+extern sumfunc.txt;
+
+int main(){
+	int a = 10;
+	int b = 13;
+	int c = sumfunc(a, b);
+	printf("%d", c);
+	return 0;
+}
