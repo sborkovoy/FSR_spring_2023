@@ -1,0 +1,3 @@
+C:/UCHYOBA/FSR/MSU programs/Hampter/cmake-build-debug/CMakeFiles/Hampter.dir
+C:/UCHYOBA/FSR/MSU programs/Hampter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UCHYOBA/FSR/MSU programs/Hampter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
